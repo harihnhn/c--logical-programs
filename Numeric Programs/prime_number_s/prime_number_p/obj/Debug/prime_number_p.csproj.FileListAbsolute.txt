@@ -1,0 +1,8 @@
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\prime_number_s\prime_number_p\bin\Debug\prime_number_p.exe.config
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\prime_number_s\prime_number_p\bin\Debug\prime_number_p.exe
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\prime_number_s\prime_number_p\bin\Debug\prime_number_p.pdb
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\prime_number_s\prime_number_p\obj\Debug\prime_number_p.csproj.AssemblyReference.cache
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\prime_number_s\prime_number_p\obj\Debug\prime_number_p.csproj.SuggestedBindingRedirects.cache
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\prime_number_s\prime_number_p\obj\Debug\prime_number_p.csproj.CoreCompileInputs.cache
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\prime_number_s\prime_number_p\obj\Debug\prime_number_p.exe
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\prime_number_s\prime_number_p\obj\Debug\prime_number_p.pdb

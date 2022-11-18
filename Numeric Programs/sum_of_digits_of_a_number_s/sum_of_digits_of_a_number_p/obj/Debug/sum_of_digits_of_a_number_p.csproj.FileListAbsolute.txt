@@ -1,0 +1,8 @@
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\sum_of_digits_of_a_number_s\sum_of_digits_of_a_number_p\bin\Debug\sum_of_digits_of_a_number_p.exe.config
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\sum_of_digits_of_a_number_s\sum_of_digits_of_a_number_p\bin\Debug\sum_of_digits_of_a_number_p.exe
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\sum_of_digits_of_a_number_s\sum_of_digits_of_a_number_p\bin\Debug\sum_of_digits_of_a_number_p.pdb
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\sum_of_digits_of_a_number_s\sum_of_digits_of_a_number_p\obj\Debug\sum_of_digits_of_a_number_p.csproj.AssemblyReference.cache
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\sum_of_digits_of_a_number_s\sum_of_digits_of_a_number_p\obj\Debug\sum_of_digits_of_a_number_p.csproj.SuggestedBindingRedirects.cache
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\sum_of_digits_of_a_number_s\sum_of_digits_of_a_number_p\obj\Debug\sum_of_digits_of_a_number_p.csproj.CoreCompileInputs.cache
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\sum_of_digits_of_a_number_s\sum_of_digits_of_a_number_p\obj\Debug\sum_of_digits_of_a_number_p.exe
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\sum_of_digits_of_a_number_s\sum_of_digits_of_a_number_p\obj\Debug\sum_of_digits_of_a_number_p.pdb
