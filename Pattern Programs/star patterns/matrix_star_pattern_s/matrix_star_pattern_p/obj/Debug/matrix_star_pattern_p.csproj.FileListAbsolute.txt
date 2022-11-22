@@ -1,0 +1,8 @@
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\star patterns\matrix_star_pattern_s\matrix_star_pattern_p\bin\Debug\matrix_star_pattern_p.exe.config
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\star patterns\matrix_star_pattern_s\matrix_star_pattern_p\bin\Debug\matrix_star_pattern_p.exe
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\star patterns\matrix_star_pattern_s\matrix_star_pattern_p\bin\Debug\matrix_star_pattern_p.pdb
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\star patterns\matrix_star_pattern_s\matrix_star_pattern_p\obj\Debug\matrix_star_pattern_p.csproj.AssemblyReference.cache
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\star patterns\matrix_star_pattern_s\matrix_star_pattern_p\obj\Debug\matrix_star_pattern_p.csproj.SuggestedBindingRedirects.cache
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\star patterns\matrix_star_pattern_s\matrix_star_pattern_p\obj\Debug\matrix_star_pattern_p.csproj.CoreCompileInputs.cache
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\star patterns\matrix_star_pattern_s\matrix_star_pattern_p\obj\Debug\matrix_star_pattern_p.exe
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\star patterns\matrix_star_pattern_s\matrix_star_pattern_p\obj\Debug\matrix_star_pattern_p.pdb

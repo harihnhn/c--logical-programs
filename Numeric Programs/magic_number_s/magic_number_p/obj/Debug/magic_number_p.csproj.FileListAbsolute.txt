@@ -1,0 +1,8 @@
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\magic_number_s\magic_number_p\bin\Debug\magic_number_p.exe.config
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\magic_number_s\magic_number_p\bin\Debug\magic_number_p.exe
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\magic_number_s\magic_number_p\bin\Debug\magic_number_p.pdb
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\magic_number_s\magic_number_p\obj\Debug\magic_number_p.csproj.AssemblyReference.cache
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\magic_number_s\magic_number_p\obj\Debug\magic_number_p.csproj.SuggestedBindingRedirects.cache
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\magic_number_s\magic_number_p\obj\Debug\magic_number_p.csproj.CoreCompileInputs.cache
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\magic_number_s\magic_number_p\obj\Debug\magic_number_p.exe
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\magic_number_s\magic_number_p\obj\Debug\magic_number_p.pdb

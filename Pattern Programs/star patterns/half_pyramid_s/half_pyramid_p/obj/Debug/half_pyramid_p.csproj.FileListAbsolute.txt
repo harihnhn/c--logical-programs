@@ -1,0 +1,8 @@
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\star patterns\half_pyramid_s\half_pyramid_p\bin\Debug\half_pyramid_p.exe.config
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\star patterns\half_pyramid_s\half_pyramid_p\bin\Debug\half_pyramid_p.exe
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\star patterns\half_pyramid_s\half_pyramid_p\bin\Debug\half_pyramid_p.pdb
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\star patterns\half_pyramid_s\half_pyramid_p\obj\Debug\half_pyramid_p.csproj.AssemblyReference.cache
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\star patterns\half_pyramid_s\half_pyramid_p\obj\Debug\half_pyramid_p.csproj.SuggestedBindingRedirects.cache
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\star patterns\half_pyramid_s\half_pyramid_p\obj\Debug\half_pyramid_p.csproj.CoreCompileInputs.cache
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\star patterns\half_pyramid_s\half_pyramid_p\obj\Debug\half_pyramid_p.exe
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\star patterns\half_pyramid_s\half_pyramid_p\obj\Debug\half_pyramid_p.pdb

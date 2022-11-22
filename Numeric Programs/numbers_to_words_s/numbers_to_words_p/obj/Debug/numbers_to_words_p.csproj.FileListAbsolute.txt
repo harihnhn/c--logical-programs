@@ -1,0 +1,8 @@
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\numbers_to_words_s\numbers_to_words_p\bin\Debug\numbers_to_words_p.exe.config
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\numbers_to_words_s\numbers_to_words_p\bin\Debug\numbers_to_words_p.exe
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\numbers_to_words_s\numbers_to_words_p\bin\Debug\numbers_to_words_p.pdb
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\numbers_to_words_s\numbers_to_words_p\obj\Debug\numbers_to_words_p.csproj.AssemblyReference.cache
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\numbers_to_words_s\numbers_to_words_p\obj\Debug\numbers_to_words_p.csproj.SuggestedBindingRedirects.cache
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\numbers_to_words_s\numbers_to_words_p\obj\Debug\numbers_to_words_p.csproj.CoreCompileInputs.cache
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\numbers_to_words_s\numbers_to_words_p\obj\Debug\numbers_to_words_p.exe
+E:\hariharan\c-sharp-logical-programs\Numeric Programs\numbers_to_words_s\numbers_to_words_p\obj\Debug\numbers_to_words_p.pdb
