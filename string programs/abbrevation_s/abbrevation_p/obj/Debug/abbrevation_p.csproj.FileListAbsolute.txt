@@ -1,0 +1,8 @@
+E:\hariharan\c-sharp-logical-programs\string programs\abbrevation_s\abbrevation_p\bin\Debug\abbrevation_p.exe.config
+E:\hariharan\c-sharp-logical-programs\string programs\abbrevation_s\abbrevation_p\bin\Debug\abbrevation_p.exe
+E:\hariharan\c-sharp-logical-programs\string programs\abbrevation_s\abbrevation_p\bin\Debug\abbrevation_p.pdb
+E:\hariharan\c-sharp-logical-programs\string programs\abbrevation_s\abbrevation_p\obj\Debug\abbrevation_p.csproj.AssemblyReference.cache
+E:\hariharan\c-sharp-logical-programs\string programs\abbrevation_s\abbrevation_p\obj\Debug\abbrevation_p.csproj.SuggestedBindingRedirects.cache
+E:\hariharan\c-sharp-logical-programs\string programs\abbrevation_s\abbrevation_p\obj\Debug\abbrevation_p.csproj.CoreCompileInputs.cache
+E:\hariharan\c-sharp-logical-programs\string programs\abbrevation_s\abbrevation_p\obj\Debug\abbrevation_p.exe
+E:\hariharan\c-sharp-logical-programs\string programs\abbrevation_s\abbrevation_p\obj\Debug\abbrevation_p.pdb

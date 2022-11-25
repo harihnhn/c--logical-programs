@@ -1,0 +1,16 @@
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\anagram_s\anagram_p\bin\Debug\anagram_p.exe.config
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\anagram_s\anagram_p\bin\Debug\anagram_p.exe
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\anagram_s\anagram_p\bin\Debug\anagram_p.pdb
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\anagram_s\anagram_p\obj\Debug\anagram_p.csproj.AssemblyReference.cache
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\anagram_s\anagram_p\obj\Debug\anagram_p.csproj.SuggestedBindingRedirects.cache
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\anagram_s\anagram_p\obj\Debug\anagram_p.csproj.CoreCompileInputs.cache
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\anagram_s\anagram_p\obj\Debug\anagram_p.exe
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\anagram_s\anagram_p\obj\Debug\anagram_p.pdb
+E:\hariharan\c-sharp-logical-programs\string programs\anagram_s\anagram_p\bin\Debug\anagram_p.exe.config
+E:\hariharan\c-sharp-logical-programs\string programs\anagram_s\anagram_p\bin\Debug\anagram_p.exe
+E:\hariharan\c-sharp-logical-programs\string programs\anagram_s\anagram_p\bin\Debug\anagram_p.pdb
+E:\hariharan\c-sharp-logical-programs\string programs\anagram_s\anagram_p\obj\Debug\anagram_p.csproj.AssemblyReference.cache
+E:\hariharan\c-sharp-logical-programs\string programs\anagram_s\anagram_p\obj\Debug\anagram_p.csproj.SuggestedBindingRedirects.cache
+E:\hariharan\c-sharp-logical-programs\string programs\anagram_s\anagram_p\obj\Debug\anagram_p.csproj.CoreCompileInputs.cache
+E:\hariharan\c-sharp-logical-programs\string programs\anagram_s\anagram_p\obj\Debug\anagram_p.exe
+E:\hariharan\c-sharp-logical-programs\string programs\anagram_s\anagram_p\obj\Debug\anagram_p.pdb

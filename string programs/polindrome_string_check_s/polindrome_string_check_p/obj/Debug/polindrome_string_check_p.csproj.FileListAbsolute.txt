@@ -1,0 +1,8 @@
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\polindrome_string_check_s\polindrome_string_check_p\bin\Debug\polindrome_string_check_p.exe.config
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\polindrome_string_check_s\polindrome_string_check_p\bin\Debug\polindrome_string_check_p.exe
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\polindrome_string_check_s\polindrome_string_check_p\bin\Debug\polindrome_string_check_p.pdb
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\polindrome_string_check_s\polindrome_string_check_p\obj\Debug\polindrome_string_check_p.csproj.AssemblyReference.cache
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\polindrome_string_check_s\polindrome_string_check_p\obj\Debug\polindrome_string_check_p.csproj.SuggestedBindingRedirects.cache
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\polindrome_string_check_s\polindrome_string_check_p\obj\Debug\polindrome_string_check_p.csproj.CoreCompileInputs.cache
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\polindrome_string_check_s\polindrome_string_check_p\obj\Debug\polindrome_string_check_p.exe
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\polindrome_string_check_s\polindrome_string_check_p\obj\Debug\polindrome_string_check_p.pdb

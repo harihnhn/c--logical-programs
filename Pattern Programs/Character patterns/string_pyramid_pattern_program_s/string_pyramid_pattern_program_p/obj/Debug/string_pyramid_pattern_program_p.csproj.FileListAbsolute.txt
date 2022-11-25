@@ -1,0 +1,8 @@
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\string_pyramid_pattern_program_s\string_pyramid_pattern_program_p\bin\Debug\string_pyramid_pattern_program_p.exe.config
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\string_pyramid_pattern_program_s\string_pyramid_pattern_program_p\bin\Debug\string_pyramid_pattern_program_p.exe
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\string_pyramid_pattern_program_s\string_pyramid_pattern_program_p\bin\Debug\string_pyramid_pattern_program_p.pdb
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\string_pyramid_pattern_program_s\string_pyramid_pattern_program_p\obj\Debug\string_pyramid_pattern_program_p.csproj.AssemblyReference.cache
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\string_pyramid_pattern_program_s\string_pyramid_pattern_program_p\obj\Debug\string_pyramid_pattern_program_p.csproj.SuggestedBindingRedirects.cache
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\string_pyramid_pattern_program_s\string_pyramid_pattern_program_p\obj\Debug\string_pyramid_pattern_program_p.csproj.CoreCompileInputs.cache
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\string_pyramid_pattern_program_s\string_pyramid_pattern_program_p\obj\Debug\string_pyramid_pattern_program_p.exe
+E:\hariharan\c-sharp-logical-programs\Pattern Programs\Character patterns\string_pyramid_pattern_program_s\string_pyramid_pattern_program_p\obj\Debug\string_pyramid_pattern_program_p.pdb
