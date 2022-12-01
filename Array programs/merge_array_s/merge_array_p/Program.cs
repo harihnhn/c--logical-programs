@@ -23,7 +23,7 @@ namespace merge_array_p
                 arr1[i] = Char.Parse(Console.ReadLine());
             }
 
-            Console.WriteLine("\nEnter the size of second array : ");
+            Console.Write("\nEnter the size of second array : ");
             n2 = Convert.ToInt32(Console.ReadLine());
             char[] arr2 = new char[n2];
             Console.WriteLine("\nEnter the elements of second array : ");
@@ -36,23 +36,15 @@ namespace merge_array_p
             n3 = n1 + n2; 
             char[] arr3 = new char[n3];
             i = 0;
-            for (j = 0; j < n1; j++)
-            {
-                arr3[i] = arr1[j];
-                i++;
-            }
+            for (j = 0; j < n1; j++)            
+                arr3[i++] = arr1[j];                     
 
-            for (j = 0; j < n2; j++)
-            {
-                arr3[i] = arr2[j];
-                i++;
-            }
+            for (j = 0; j < n2; j++)            
+                arr3[i++] = arr2[j];                       
 
             Console.WriteLine("\nMerged array : ");
-            for (i = 0; i<n3; i++)
-            {
-                Console.Write(arr3[i]);
-            }
+            for (i = 0; i<n3; i++)            
+                Console.Write(arr3[i]);            
             Console.Read();
         }
     }

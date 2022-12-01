@@ -19,7 +19,7 @@ namespace polindrome_string_check_p
             for(int i = (str.Length-1); i>=0; i--)
             {
                 //str_rev[i] = str[i]; //doubt
-                str_rev += str[i];                
+                str_rev += str[i];
             }
 
             //check the string is polindrome or not
