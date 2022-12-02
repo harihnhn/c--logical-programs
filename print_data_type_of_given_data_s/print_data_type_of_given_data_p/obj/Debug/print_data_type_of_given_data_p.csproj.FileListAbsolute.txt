@@ -1,0 +1,8 @@
+E:\hariharan\c-sharp-logical-programs\print_data_type_of_given_data_s\print_data_type_of_given_data_p\bin\Debug\print_data_type_of_given_data_p.exe.config
+E:\hariharan\c-sharp-logical-programs\print_data_type_of_given_data_s\print_data_type_of_given_data_p\bin\Debug\print_data_type_of_given_data_p.exe
+E:\hariharan\c-sharp-logical-programs\print_data_type_of_given_data_s\print_data_type_of_given_data_p\bin\Debug\print_data_type_of_given_data_p.pdb
+E:\hariharan\c-sharp-logical-programs\print_data_type_of_given_data_s\print_data_type_of_given_data_p\obj\Debug\print_data_type_of_given_data_p.csproj.AssemblyReference.cache
+E:\hariharan\c-sharp-logical-programs\print_data_type_of_given_data_s\print_data_type_of_given_data_p\obj\Debug\print_data_type_of_given_data_p.csproj.SuggestedBindingRedirects.cache
+E:\hariharan\c-sharp-logical-programs\print_data_type_of_given_data_s\print_data_type_of_given_data_p\obj\Debug\print_data_type_of_given_data_p.csproj.CoreCompileInputs.cache
+E:\hariharan\c-sharp-logical-programs\print_data_type_of_given_data_s\print_data_type_of_given_data_p\obj\Debug\print_data_type_of_given_data_p.exe
+E:\hariharan\c-sharp-logical-programs\print_data_type_of_given_data_s\print_data_type_of_given_data_p\obj\Debug\print_data_type_of_given_data_p.pdb

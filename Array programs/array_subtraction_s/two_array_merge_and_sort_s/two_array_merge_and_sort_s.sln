@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "two_array_merge_and_sort_p", "two_array_merge_and_sort_p\two_array_merge_and_sort_p.csproj", "{D42C0E9B-5EA4-4686-9718-04E9890CE313}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D42C0E9B-5EA4-4686-9718-04E9890CE313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42C0E9B-5EA4-4686-9718-04E9890CE313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42C0E9B-5EA4-4686-9718-04E9890CE313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42C0E9B-5EA4-4686-9718-04E9890CE313}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45F6EA26-396E-4BF2-B72A-11D108E15F73}
+	EndGlobalSection
+EndGlobal
